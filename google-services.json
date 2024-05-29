@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456535343839",
+    "firebase_url": "https://projectag2-7c39d-default-rtdb.firebaseio.com",
+    "project_id": "projectag2-7c39d",
+    "storage_bucket": "projectag2-7c39d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456535343839:android:74758b9013d31400949f6a",
+        "android_client_info": {
+          "package_name": "com.example.labourarportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456535343839-god5o8qd2qdo3se9a01mr7o7hb915u91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4NR7mLRb9nlAeyJsN5b9H87E-i22jQzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456535343839-god5o8qd2qdo3se9a01mr7o7hb915u91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

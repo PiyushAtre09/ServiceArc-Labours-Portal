@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LabourarPortal</string>
+
+    <string-array name="Skills">
+        <item>Choose Your Skill</item>
+        <item>Plumber</item>
+        <item>Carpenter</item>
+        <item>Electrician</item>
+        <item>Plasterer</item>
+        <item>Painter</item>
+        <item>Welder</item>
+        <item>Driver</item>
+        <item>WasherMen/Clothes Washer/Dry Cleaning</item>
+        <item>Maid/Servant</item>
+    </string-array>
+</resources>
